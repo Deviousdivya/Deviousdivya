@@ -45,17 +45,14 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Featured projects
+## Projects
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Smart Roots](https://github.com/Deviousdivya/Smart-roots)** ([live](https://smart-roots.vercel.app)) | AI-powered learning platform with personalized learning, performance analytics, progress tracking and smart recommendations. | React, JavaScript, Django |
-| **[Venom Snake Detector](https://github.com/Deviousdivya/VenomSnake-Dectector)** ([live](https://venom-snake-dectector.vercel.app)) | Web platform aimed at reducing snakebite fatalities, with real-time AI identification, photography guidance and an interactive 3D medical emergency suite. | React, Three.js, APIs |
-| **[Emotional Intelligence System](https://github.com/Deviousdivya/Emotional_Intelligence_System)** | NLP system that predicts emotions and their intensity from user reflections and recommends actions through a confidence-aware decision engine. | Python, TF-IDF, XGBoost |
-| **[AI Movie Insight Builder](https://github.com/Deviousdivya/AI-Movie)** ([live](https://ai-movie-pied.vercel.app)) | Full stack app that combines IMDb details (cast, rating, plot) with AI-generated insight. | TypeScript |
-| **[Healthcare Backend](https://github.com/Deviousdivya/Healthcare-Backend-Application)** ([live](https://healthcare-backend-application.vercel.app)) | REST API for registering users and managing patient and doctor records, with doctor-patient assignment and a simple web UI. | Django, DRF, PostgreSQL |
-| **[3D Developer Portfolio](https://github.com/Deviousdivya/3d-developer-portfolio)** ([live](https://3d-developer-portfolio-delta.vercel.app)) | Scroll-driven 3D virtual desk with live project previews and a working contact form. | React, Three.js, Motion |
-| **[McLaren Scroll Hero](https://github.com/Deviousdivya/Mclaren-Project)** ([live](https://mclaren-project.vercel.app)) | Scroll-driven hero section with synchronized clip-path reveal effects. | GSAP, ScrollTrigger, Lenis |
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **3D Developer Portfolio** | Interactive scroll-driven 3D virtual desk with live project previews on the monitor and a working contact form. | React, Three.js, Motion | [Live](https://3d-developer-portfolio-delta.vercel.app) · [Code](https://github.com/Deviousdivya/3d-developer-portfolio) |
+| **Venom Snake Detector** | Web platform aimed at reducing snakebite fatalities, with real-time AI identification, "Active Perception" photography guidance and an interactive 3D medical emergency suite. | React, Three.js, APIs | [Live](https://venom-snake-dectector.vercel.app) · [Code](https://github.com/Deviousdivya/VenomSnake-Dectector) |
+| **Emotional Intelligence System** | NLP system that predicts emotions and their intensity from user reflections using TF-IDF and XGBoost, then recommends actions through a confidence-aware decision engine. | Python, Scikit-learn, XGBoost | [Code](https://github.com/Deviousdivya/Emotional_Intelligence_System) |
+| **NetGuard AI** | Telecom network fault prediction system that uses machine learning on location, severity and log-volume data to help engineers spot fault patterns early. | Python, FastAPI, XGBoost, React | [Live](https://netgaurd-peach.vercel.app) · [Code](https://github.com/Deviousdivya/netguard) |
 
 ## Education
 
