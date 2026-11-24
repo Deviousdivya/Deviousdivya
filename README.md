@@ -2,7 +2,7 @@
 
 Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027) and full stack developer. I build web applications with React and Django, and apply machine learning to practical problems.
 
-[Portfolio](https://divya-bharat-portfolio.vercel.app) · [Email](mailto:divyabharat1407@gmail.com)
+[Portfolio](https://3d-developer-portfolio-delta.vercel.app) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=divyabharat1407@gmail.com)
 
 ## About
 
@@ -62,4 +62,4 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 ## Get in touch
 
 Open to internships and entry-level software engineering roles.
-[divyabharat1407@gmail.com](mailto:divyabharat1407@gmail.com)
+[divyabharat1407@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=divyabharat1407@gmail.com)
