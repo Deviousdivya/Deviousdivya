@@ -51,7 +51,7 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 | :--- | :--- | :--- | :--- |
 | **3D Developer Portfolio** | Interactive scroll-driven 3D virtual desk with live project previews on the monitor and a working contact form. | React, Three.js, Motion | [Live](https://3d-developer-portfolio-delta.vercel.app) · [Code](https://github.com/Deviousdivya/3d-developer-portfolio) |
 | **Venom Snake Detector** | Web platform aimed at reducing snakebite fatalities, with real-time AI identification, "Active Perception" photography guidance and an interactive 3D medical emergency suite. | React, Three.js, APIs | [Live](https://venom-snake-dectector.vercel.app) · [Code](https://github.com/Deviousdivya/VenomSnake-Dectector) |
-| **Emotional Intelligence System** | NLP system that predicts emotions and their intensity from user reflections using TF-IDF and XGBoost, then recommends actions through a confidence-aware decision engine. | Python, Scikit-learn, XGBoost | [Code](https://github.com/Deviousdivya/Emotional_Intelligence_System) |
+| **Emotional Intelligence System** | NLP system that predicts emotions and their intensity from user reflections using TF-IDF and XGBoost, then recommends actions through a confidence-aware decision engine. | Python, Scikit-learn, XGBoost | [Live](https://emotional-intelligence-system.onrender.com) · [Code](https://github.com/Deviousdivya/Emotional_Intelligence_System) |
 | **NetGuard AI** | Telecom network fault prediction system that uses machine learning on location, severity and log-volume data to help engineers spot fault patterns early. | Python, FastAPI, XGBoost, React | [Live](https://netgaurd-peach.vercel.app) · [Code](https://github.com/Deviousdivya/netguard) |
 
 ## Education
