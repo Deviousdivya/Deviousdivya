@@ -9,7 +9,7 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 - Full Stack Intern at **Sarthi EPC Private Limited** — full stack development, testing, deployment support, database work and web scrapers.
 - Previously SDE Intern at **StudyDekho** — frontend and backend development and UI improvements.
 - National-level hackathon finalist (2 of 3 hackathons entered).
-- Member of my college tech club (DevOps) for 2 years.
+- Member of my college tech club (DevUps) for 2 years.
 
 ## Tech stack
 
