@@ -54,6 +54,14 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 | **Emotional Intelligence System** | NLP system that predicts emotions and their intensity from user reflections using TF-IDF and XGBoost, then recommends actions through a confidence-aware decision engine. | Python, Scikit-learn, XGBoost | [Live](https://emotional-intelligence-system.onrender.com) · [Code](https://github.com/Deviousdivya/Emotional_Intelligence_System) |
 | **NetGuard AI** | Telecom network fault prediction system that uses machine learning on location, severity and log-volume data to help engineers spot fault patterns early. | Python, FastAPI, XGBoost, React | [Live](https://netguard-ai-pi.vercel.app) · [Code](https://github.com/Deviousdivya/netguard) |
 
+## Achievements
+
+<p>
+  <a href="https://github.com/Deviousdivya?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" title="Pair Extraordinaire" width="90" height="90" /></a>
+  <a href="https://github.com/Deviousdivya?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" title="Pull Shark" width="90" height="90" /></a>
+  <a href="https://github.com/Deviousdivya?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="YOLO" width="90" height="90" /></a>
+</p>
+
 ## Education
 
 - **B.Tech, Computer Science** — KIET Group of Institutions, Ghaziabad (2023–2027), CGPA 8.0 (through 6th semester)
