@@ -1,8 +1,19 @@
-# Hi, I'm Divya Bharat 👋
+<div align="center">
 
-Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027) and full stack developer. I build web applications with React and Django, and apply machine learning to practical problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Divya%20Bharat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Divya Bharat" width="100%" />
 
-[Portfolio](https://3d-developer-portfolio-delta.vercel.app) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=divyabharat1407@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%C2%B7+Django+%C2%B7+FastAPI;Machine+Learning+with+XGBoost;Building+things+that+ship" alt="Typing animation" />
+
+<br/>
+
+<a href="https://3d-developer-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/divya-bharat-348868276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyabharat1407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<p align="center">Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027) and full stack developer. I build web applications with React and Django, and apply machine learning to practical problems.</p>
+
 
 ## About
 
@@ -62,6 +73,19 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
   <a href="https://github.com/Deviousdivya?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="YOLO" width="90" height="90" /></a>
 </p>
 
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deviousdivya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviousdivya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Deviousdivya&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deviousdivya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
 ## Education
 
 - **B.Tech, Computer Science** — KIET Group of Institutions, Ghaziabad (2023–2027), CGPA 8.0 (through 6th semester)
@@ -71,3 +95,5 @@ Computer Science undergraduate (B.Tech, KIET Group of Institutions, 2023–2027)
 
 Open to internships and entry-level software engineering roles.
 [divyabharat1407@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=divyabharat1407@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" width="100%" />
