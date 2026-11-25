@@ -77,18 +77,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deviousdivya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviousdivya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Deviousdivya&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Deviousdivya&theme=tokyonight&hide_border=true" alt="Streak" width="55%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" width="100%" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" width="75%" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deviousdivya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deviousdivya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="75%" />
 
 </div>
 
