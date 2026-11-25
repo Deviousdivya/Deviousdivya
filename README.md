@@ -82,6 +82,12 @@
 
 <img src="https://streak-stats.demolab.com?user=Deviousdivya&theme=tokyonight&hide_border=true" alt="Streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deviousdivya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </div>
