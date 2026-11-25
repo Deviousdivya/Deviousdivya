@@ -85,8 +85,6 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Deviousdivya/Deviousdivya/output/github-snake-dark.svg" width="75%" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deviousdivya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="75%" />
-
 </div>
 
 ## Education
